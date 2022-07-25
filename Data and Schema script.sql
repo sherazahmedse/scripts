@@ -1,3 +1,5 @@
+-- For Stack overflow question 
+
 CREATE DATABASE DefaultValueTest
 
 
